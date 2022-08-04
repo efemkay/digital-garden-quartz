@@ -1,7 +1,7 @@
 baseURL = "https://efemkay.github.io/digital-garden-quartz/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
